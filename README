@@ -1,0 +1,5 @@
+* Compile:
+*
+* g++ -o forum main.cpp forum.cpp thread.cpp post.cpp date.cpp rand.cpp data.cpp list.cpp tree.cpp -std=gnu++0x
+*
+*
